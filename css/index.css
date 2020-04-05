@@ -57,3 +57,16 @@ body {
     padding-top: 10px;
     padding-bottom: 20px;
   }
+/* Intro stfd class */
+  .instructorphoto img {
+  width: 120px;
+  border-radius: 120px;
+  margin-bottom: 10px;
+  }
+  .instructor {
+  display: inline-block;
+  width: 120px;
+  text-align: center;
+  margin-right: 40px;
+  }
+  
