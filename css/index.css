@@ -212,7 +212,7 @@ body {
   font-size: 18px;
 }
 .materials-item a{
-  color: #333;
+  /* color: #333; */
   display: block;
   padding: 3px;
 }
